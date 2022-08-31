@@ -1,1 +1,4 @@
-<img height="180em" src="https://github.com/xmurilo" data-canonical-src="https://github-readme-stats.vercel.app/api?username=xmurilo&amp;show_icons=true&amp;theme=argolia&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+<div>
+<img height="42%" src="https://github-readme-stats.vercel.app/api?username=xmurilo&theme=algolia&show_icons=true"/> 
+<img height="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmurilo&layout=compact&langs_count=16&theme=algolia"/>
+</div>
