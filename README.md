@@ -12,7 +12,7 @@
 <hr>
 
 <div align="center">
-  <h1> 🏹Linguagens e ferramentas que uso 🛡️</h2>
+  <h2> 🏹Linguagens e ferramentas que uso 🛡️</h2>
  </div>
 
 <div>
