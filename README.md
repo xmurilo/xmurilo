@@ -12,8 +12,7 @@
 <hr>
 
 
-  <h3> <img width="30x" height="30px" src="https://img.icons8.com/color/48/000000/sharingan.png"/> Linguagens e ferramentas que uso  
-  <img width="30x" height="30x" src="https://img.icons8.com/color/48/000000/sharingan.png"/> </h3> 
+  <h2>  ⚔️Linguagens e ferramentas que uso 🏹  </h2> 
  
 
 <div>
