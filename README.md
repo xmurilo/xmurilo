@@ -11,11 +11,9 @@
 
 <hr>
 
-<div align="center">
+
   <h3> <img width="34px" height="34px" src="https://img.icons8.com/color/48/000000/sharingan.png"/> Linguagens e ferramentas que uso  
   <img width="34px" height="34px" src="https://img.icons8.com/color/48/000000/sharingan.png"/> </h3> 
-  
- </div>
  
 
 <div>
