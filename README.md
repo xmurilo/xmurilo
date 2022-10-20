@@ -12,7 +12,7 @@
 <hr>
 
 
-  <h3>  ⚔️Linguagens e ferramentas que uso 🏹  </h3> 
+  <h3>  ⚔️Linguagens e ferramentas 🏹</h3> 
  
 
 <div>
