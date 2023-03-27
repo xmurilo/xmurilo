@@ -24,10 +24,15 @@
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
           
 </div>
-<div align="center"> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
-</div>
+  <hr>
+  <div align="center">
+    <h1>Redes Sociais</h1>
+    <a href="https://www.instagram.com/yxmurilo/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+  </div>
+  
+  </div>
 
 
  <div align="center">
