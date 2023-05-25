@@ -12,7 +12,7 @@
 <hr>
 
 
-  <h3 align="center"> ⚔️Linguagens e ferramentas 🏹</h3> 
+  <h3 align="center"> ⚔️languages and Tools 🏹</h3> 
  
 
 <div align="center">
@@ -28,7 +28,7 @@
 </div>
   <hr>
   <div align="center">
-    <h1>Redes Sociais</h1>
+    <h1>Social Media</h1>
     <a href="https://www.instagram.com/yxmurilo/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
