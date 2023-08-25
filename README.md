@@ -1,8 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a4f3&height=120&section=header"/>
 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0194dd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Murilo;I'm+20+years+old;I'm+from+Brazil,+Pelotas;I+study+systems+analysis+and+development+at+senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">
+  <p>
+    <img src="https://github.com/xmurilo/xmurilo/assets/107772420/79022f44-8002-47d8-a18f-304946360020">
+  </p>
+</div>
+
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xmurilo&theme=algolia&show_icons=true" alt="github stats saiu fora do ar" /> 
