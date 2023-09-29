@@ -17,7 +17,9 @@
 <hr>
 
 
-  <h3 align="center"> ⚔️Languages and Tools 🏹</h3> 
+  <h3 align="center"> <img width="48" height="48" src="https://img.icons8.com/doodle/48/satoru-gojo.png" alt="satoru-gojo"/>Languages and Tools <img width="48" height="48" src="https://img.icons8.com/doodle/48/satoru-gojo.png" alt="satoru-gojo"/> </h3> 
+  
+
  
 
 <div align="center">
