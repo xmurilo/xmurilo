@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="260" src="https://github.com/xmurilo/xmurilo/assets/107772420/79022f44-8002-47d8-a18f-304946360020"  />
+<img align="left" height="200" src="https://github.com/xmurilo/xmurilo/assets/107772420/79022f44-8002-47d8-a18f-304946360020"  />
 
 ###
 
