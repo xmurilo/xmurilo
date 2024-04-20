@@ -19,32 +19,39 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="50" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <!-- Primeira linha de imagens -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
+    <img width="2" />
+    <img src="https://cdn.simpleicons.org/mui/007FFF" height="50" alt="materialui logo" />
+    <img width="2" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
+  </div>
+  <!-- Segunda linha de imagens -->
+  <div>
+    <img width="2" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo" />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo" />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+  </div>
 </div>
+
 
 ###
 
