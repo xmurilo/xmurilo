@@ -29,7 +29,7 @@
     <img width="2" />
     <img src="https://cdn.simpleicons.org/mui/007FFF" height="50" alt="materialui logo" />
     <img width="2" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+    <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
     <img width="2" />
     <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
     <img width="2" />
