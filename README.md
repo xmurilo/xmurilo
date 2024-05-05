@@ -41,6 +41,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
     <img width="2" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
+    <img  width="2"/>
+    <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo" />
     <img width="2" />
     <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo" />
     <img width="2" />
