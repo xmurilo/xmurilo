@@ -38,6 +38,7 @@
   <!-- Segunda linha de imagens -->
   <div>
     <img width="2" />
+    <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
     <img width="2" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
