@@ -1,4 +1,18 @@
-<h4 align="left">Hey  What's up?<br>My name is Murilo and I'm a software enginneer, from  Pelotas, Brasil.<br><br>About me<br> Creating bugs since 2021<br> I'm currently learning NextJS and NodeJS<br>Goals: Speaking fluent English <br>And ... i really like 🎸guitar and a good game of ♟ online chess</h4>
+<h4 align="left">hey, i'm murilo. 
+
+software engineer based in pelotas, brazil 🇧🇷
+
+building things for the web since 2021.
+
+exploring software architecture & full-stack development
+
+working with react, typescript & node.js
+
+improving my english, one step at a time
+
+into good music, guitars & late-night chess games ♟️
+
+</h4>
 
 ###
 
