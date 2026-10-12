@@ -1,18 +1,11 @@
-<h4 align="left">hey, i'm murilo. 
-
-software engineer based in pelotas, brazil 🇧🇷
-
-building things for the web since 2021.
-
-exploring software architecture & full-stack development
-
-working with react, typescript & node.js
-
-improving my english, one step at a time
-
-into good music, guitars & late-night chess games ♟️
-
-</h4>
+Hey, what's up?<br>
+Software Engineer from south of brazil<br>
+<br>
+About me<br>
+Building things since 2021<br>
+Exploring software architecture and full-stack development<br>
+Working with React, TypeScript and Node.js<br>
+Outside of coding, I enjoy playing guitar and a good game of online chess.<br>
 
 ###
 
