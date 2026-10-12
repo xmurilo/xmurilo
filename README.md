@@ -1,4 +1,4 @@
-<h4 align="left">Hey  What's up?<br>My name is Murilo and I'm a javascript developer, from  Pelotas, Brasil.<br><br>About me<br> Creating bugs since 2021<br> I'm currently learning NextJS and NodeJS<br>Goals: Speaking fluent English <br>And ... i really like 🎸guitar and a good game of ♟ online chess</h4>
+<h4 align="left">Hey  What's up?<br>My name is Murilo and I'm a software enginneer, from  Pelotas, Brasil.<br><br>About me<br> Creating bugs since 2021<br> I'm currently learning NextJS and NodeJS<br>Goals: Speaking fluent English <br>And ... i really like 🎸guitar and a good game of ♟ online chess</h4>
 
 ###
 
